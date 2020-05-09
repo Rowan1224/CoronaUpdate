@@ -1,0 +1,11 @@
+Cumilla	1
+Chattogram 1
+Coxsbazar 1
+Chuadanga 1
+Gazipur 1
+Shariatpur 1
+Narayanganj 11
+Dhaka 54
+Madaripur 11
+Gaibandha 5
+Rangpur	1
